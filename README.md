@@ -1,5 +1,3 @@
-![greeting](https://c.tenor.com/OlwKC7D-i74AAAAd/spiderman-dancing.gif)
-
 <h3>Laravel, NodeJs,JavaScript ( Vue, React, Inertia, Electron, etc ) Developer</h3> 
 
 ![](https://komarev.com/ghpvc/?username=Thihasoehlaing&label=VISITOR+VIEWS&style=for-the-badge&color=brightgreen)
