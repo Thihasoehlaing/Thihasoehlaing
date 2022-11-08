@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Thihasoehlaing&label=VISITOR+VIEWS&style=for-the-badge&color=brightgreen)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Thihasoehlaing&show_icons=true&theme=ocean_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Thihasoehlaing&count_private=trueshow_icons=true&theme=merko)
 
 ## Touch Me
 - thihasoehlaing.dev@gmail.com
