@@ -12,6 +12,7 @@
 ![react](https://img.shields.io/static/v1?style=flat&logo=react&label=React&message=✔️&color=violet)
 ![inertia](https://img.shields.io/static/v1?style=flat&logo=inertia&label=InertiaJs&message=✔️&color=red)
 ![electron](https://img.shields.io/static/v1?style=flat&logo=electron&label=ElectronJs&message=✔️&color=darkgreen)
+![next](https://img.shields.io/static/v1?style=flat&logo=electron&label=NextJs&message=✔️&color=blue)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Thihasoehlaing&count_private=trueshow_icons=true&theme=merko)
