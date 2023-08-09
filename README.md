@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Thiha Soe Hlaing. Web Developer from Myanmar or Burma with a passion for programming.
+#### I'm Thiha Soe Hlaing. Web Developer from Myanmar or Burma with passion for programming.
 
 ![](https://komarev.com/ghpvc/?username=Thihasoehlaing&label=VISITOR+VIEWS&style=for-the-badge&color=brightgreen)
 
