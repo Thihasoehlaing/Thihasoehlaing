@@ -8,11 +8,11 @@
 ![laravel](https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=✔️&color=red)
 ![js](https://img.shields.io/static/v1?style=flat&logo=javascript&label=JavaScript&message=✔️&color=yellow)
 ![express](https://img.shields.io/static/v1?style=flat&logo=express&label=Express&message=✔️&color=white)
-![socket](https://img.shields.io/static/v1?style=flat&logo=socket&label=Socket.io&message=✔️&color=violet)
+![socket](https://img.shields.io/static/v1?style=flat&logo=socket.io&label=socket.io&message=✔️&color=violet)
 ![vue](https://img.shields.io/static/v1?style=flat&logo=vuejs&label=VueJs&message=✔️&color=green)
 ![react](https://img.shields.io/static/v1?style=flat&logo=react&label=React&message=✔️&color=violet)
 ![inertia](https://img.shields.io/static/v1?style=flat&logo=inertia&label=InertiaJs&message=✔️&color=red)
-![electron](https://img.shields.io/static/v1?style=flat&logo=electron&label=ElectronJs&message=✔️&color=darkgreen)
+![electron](https://img.shields.io/static/v1?style=flat&logo=electron&label=Electron&message=✔️&color=darkgreen)
 ![next](https://img.shields.io/static/v1?style=flat&logo=electron&label=NextJs&message=✔️&color=blue)
 ![ionic](https://img.shields.io/static/v1?style=flat&logo=ionic&label=Ionic&message=✔️&color=blue)
 
