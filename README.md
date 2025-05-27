@@ -22,4 +22,4 @@
 ## Touch Me
 - thihasoehlaing.dev@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/thiha-soe-hlaing-386663172)
-- [thiha.pages.dev](https://thihasoehlaing-wqa.pages.dev/)
+- [thiha.pages.dev](https://thiha.pages.dev/)
