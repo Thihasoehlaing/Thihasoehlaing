@@ -16,9 +16,6 @@
 ![next](https://img.shields.io/static/v1?style=flat&logo=electron&label=NextJs&message=✔️&color=blue)
 ![ionic](https://img.shields.io/static/v1?style=flat&logo=ionic&label=Ionic&message=✔️&color=blue)
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Thihasoehlaing&count_private=trueshow_icons=true&theme=merko)
-
 ## Touch Me
 - thihasoehlaing.dev@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/thiha-soe-hlaing-386663172)
