@@ -1,75 +1,105 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thiha%20Soe%20Hlaing&fontAlign=50&animation=twinkling&color=0:0b0f19,100:f59e0b&fontColor=ffffff" width="100%" />
+<div align="center">
 
-<p align="center">
-  <a href="https://thiha.pages.dev">
-    <img src="https://img.shields.io/badge/Portfolio-thiha.pages.dev-0b0f19?logo=vercel&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Malaysia-0b0f19"/>
-  <img src="https://komarev.com/ghpvc/?username=Thihasoehlaing&style=flat&label=Views&color=f59e0b"/>
-</p>
+# Thiha Soe Hlaing
 
-<h3 align="center">Software Engineer | AI Systems Builder</h3>
+### Software Engineer | AI Systems Builder
 
-<p align="center">
-Designing and building scalable <b>backend systems</b>, <b>AI-powered applications</b>, and <b>production-ready platforms</b>.
-</p>
+Designing and building scalable backend systems, AI-powered applications, and production-ready platforms.
 
----
+<br/>
 
-## 🚀 Expertise
-- ⚙️ Backend Systems — FastAPI, Node.js (Express), Laravel  
-- 🤖 AI & NLP — LLM integration, text processing, speech pipelines (STT/TTS)  
-- 🌐 Full-Stack Development — Next.js, React, Vue, REST APIs  
-- 🧠 System Design — scalable architecture, API design, real-world deployment  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=2200&color=F59E0B&center=true&vCenter=true&width=850&lines=Backend+Engineering;Cloud-Native+Applications;AI-Powered+Systems;Production-Ready+Architecture;Full-Stack+Platforms" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
-## 🧰 Tech Stack
+## About
 
-### 🖥️ Backend
-FastAPI (Python), Node.js (Express), Laravel  
-
-### 🎨 Frontend
-Next.js, React, Vue, Tailwind CSS  
-
-### 🤖 AI / NLP
-NLTK, spaCy, scikit-learn, LLM APIs (Gemini), STT/TTS  
-
-### 🗄️ Databases
-PostgreSQL, MongoDB, MySQL, SQL Server  
-
-### ⚙️ DevOps
-Docker, Nginx, DigitalOcean, Azure, CI/CD  
+```txt
+Building scalable backend systems and modern full-stack applications
+with focus on cloud infrastructure, AI integrations, workflow automation,
+and production-ready software architecture.
+```
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thihasoehlaing&show_icons=true&hide_border=true&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thihasoehlaing&hide_border=true&theme=dark" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thihasoehlaing&layout=compact&hide_border=true&theme=dark" height="150"/>
-</p>
+## Tech Stack
+
+```yaml
+Languages:
+  - PHP
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
+  - C#
+
+Backend:
+  - Laravel
+  - Node.js
+  - Express.js
+  - Hono.js
+  - FastAPI
+  - Flask
+
+Frontend:
+  - Next.js
+  - React
+  - Vue
+  - Angular
+  - Ionic
+  - Tailwind CSS
+
+Databases:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - SQL Server
+
+Cloud & DevOps:
+  - AWS
+  - Cloudflare
+  - DigitalOcean
+  - Hetzner
+  - Azure
+  - Google Cloud
+  - Docker
+  - Nginx
+  - CI/CD
+
+Realtime:
+  - WebSockets
+  - Socket.IO
+
+AI:
+  - NLP
+  - LLM Integration
+  - STT/TTS
+  - Conversational AI
+```
 
 ---
 
-## 🎯 Profile
-- 🎓 MSc in Computing & Engineering  
-- 🌍 Based in Malaysia 🇲🇾  
-- 🧑‍💻 Focused on backend engineering and AI system integration  
-- 📦 Experience building real-world production systems  
+## Contact
 
----
+<div align="center">
 
-## 🤝 Contact
-- ✉️ thihasoehlaing.dev@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/thihasoehlaing/  
-- 🌐 Portfolio: https://thiha.pages.dev  
+<a href="https://thiha.pages.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=cloudflare&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/thiha-soe-hlaing-386663172/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:thihasoehlaing.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
----
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0b0f19,100:f59e0b" width="100%" />
+</div>
