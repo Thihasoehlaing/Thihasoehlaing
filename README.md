@@ -6,13 +6,9 @@
 
 Designing and building scalable backend systems, AI-powered applications, and production-ready platforms.
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=2200&color=F59E0B&center=true&vCenter=true&width=850&lines=Backend+Engineering;Cloud-Native+Applications;AI-Powered+Systems;Production-Ready+Architecture;Full-Stack+Platforms" />
-
 </div>
 
-<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
@@ -21,9 +17,9 @@ Designing and building scalable backend systems, AI-powered applications, and pr
 ## About
 
 ```txt
-Building scalable backend systems and modern full-stack applications
-with focus on cloud infrastructure, AI integrations, workflow automation,
-and production-ready software architecture.
+Building scalable backend systems, AI-powered applications,
+and modern full-stack platforms with focus on cloud infrastructure,
+workflow automation, and production-ready architecture.
 ```
 
 ---
@@ -91,7 +87,7 @@ AI:
 <div align="center">
 
 <a href="https://thiha.pages.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=cloudflare&logoColor=black"/>
+  <img src="https://img.shields.io/badge/thiha.pages.dev-f59e0b?style=for-the-badge&logo=cloudflare&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/thiha-soe-hlaing-386663172/" target="_blank">
@@ -99,7 +95,7 @@ AI:
 </a>
 &nbsp;
 <a href="mailto:thihasoehlaing.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
